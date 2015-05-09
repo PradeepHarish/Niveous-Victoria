@@ -1,2 +1,2 @@
 # Niveous-Victoria
-This is a WIP project. NV is for initial data exploration for animal mass growth, muscle mass growth and grip strength analysis
+This is a template project for all my work with R, and a Shiny frontend This code essentailly has the minimal parts to allow the user to import a csv file into R, ready for further analysis.
